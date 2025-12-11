@@ -1,5 +1,7 @@
 # GenAI Content Assistant
 
+### 🔴 [Live Demo Link](https://gen-ai-content-assistant.vercel.app/)
+
 A full-stack AI-powered application that generates professional content (Blog posts, LinkedIn updates, Twitter threads) instantly. Built with the **MERN Stack** (MongoDB, Express, React, Node.js) and designed with a modern **Glassmorphism UI**.
 
 ![Project Demo](demo.png)
