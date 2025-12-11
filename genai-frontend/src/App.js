@@ -12,7 +12,7 @@ function App() {
     setLoading(true);
     setResult(''); // Clear previous result while loading
     try {
-      const response = await axios.post('http://localhost:5000/generate', {
+      const response = await axios.post('https://genai-backend-3xi3.onrender.com', {
         topic: topic,
         type: contentType
       });
